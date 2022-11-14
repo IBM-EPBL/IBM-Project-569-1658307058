@@ -1,0 +1,7 @@
+flask
+keras
+tensorflow
+joblib
+ibm_watson_machine_learning 
+watson-machine-learning-client 
+ibm-cos-sdk
