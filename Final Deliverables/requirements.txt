@@ -1,7 +1,8 @@
 flask
 keras
-tensorflow
+tensorflow-cpu
 joblib
+scikit-learn
 ibm_watson_machine_learning 
 watson-machine-learning-client 
 ibm-cos-sdk
