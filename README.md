@@ -12,6 +12,9 @@
 TECHNOLOGY  : ARTIFICIAL INTELLIGENCE       
 Team ID     : PNT2022TMID13214
 
+# Demo Video
+<https://youtu.be/rSrnt_LQrQE/> 
+
 # Demo URL
 <http://crudeoil.ddns.net/>             
 
